@@ -1,0 +1,1094 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 16299.15; Version 1709; 64bit' Language: 'es' Physical Memory: 14237 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ASUS/AndroidStudioProjects/RAV UNITY/VRevaluacion
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54951
+Successfully changed project path to: C:/Users/ASUS/AndroidStudioProjects/RAV UNITY/VRevaluacion
+C:/Users/ASUS/AndroidStudioProjects/RAV UNITY/VRevaluacion
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 94.11 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ASUS/AndroidStudioProjects/RAV UNITY/VRevaluacion/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4021 MB
+    Driver:   26.21.14.4575
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56408
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006302 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 74.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.359 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004010 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.622 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.26 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1402 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.5 MB.
+System memory in use after: 77.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1861.
+Total: 2.395528 ms (FindLiveObjects: 0.178324 ms CreateObjectMapping: 0.065276 ms MarkObjects: 2.041432 ms  DeleteObjects: 0.109401 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/RPG Monster Duo PBR Polyart
+  artifactKey: Guid(fbbe836a6adac444b8b7ccbdb56dbcf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart using Guid(fbbe836a6adac444b8b7ccbdb56dbcf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0d7f239b4c3c8efc8b1a75823c5eda') in 0.009071 seconds
+  Import took 0.012662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Promotion.jpg
+  artifactKey: Guid(2a5a5f4f146cce3499cfcc7ee45b9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Promotion.jpg using Guid(2a5a5f4f146cce3499cfcc7ee45b9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d78655748fba2713d8c5155aac95ce') in 0.374590 seconds
+  Import took 0.379098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010133 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Promotion.jpg
+  artifactKey: Guid(2a5a5f4f146cce3499cfcc7ee45b9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Promotion.jpg using Guid(2a5a5f4f146cce3499cfcc7ee45b9b1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d78655748fba2713d8c5155aac95ce') in 0.046033 seconds
+  Import took 0.050948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.669559 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Textures
+  artifactKey: Guid(6840729219228ab4880b45e06d1e3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Textures using Guid(6840729219228ab4880b45e06d1e3211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33465531caca22f0063d7407c168d651') in 0.006800 seconds
+  Import took 0.011082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.904595 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Animations
+  artifactKey: Guid(389170da8f2a7b54fab118388ba480a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Animations using Guid(389170da8f2a7b54fab118388ba480a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31494aabf03be0e5305bc676e0456018') in 0.008697 seconds
+  Import took 0.012409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.784292 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Prefabs
+  artifactKey: Guid(8127742742335384f97472bb26841d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Prefabs using Guid(8127742742335384f97472bb26841d4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55cefe6030f7477f05de5c01a762390') in 0.007832 seconds
+  Import took 0.011502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123155 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Prefabs/Slime.prefab
+  artifactKey: Guid(a817c29ea6847604bb2c6c51d9a74bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Prefabs/Slime.prefab using Guid(a817c29ea6847604bb2c6c51d9a74bf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c1fa76c81b9edeaf8459f200dc5a067') in 0.438637 seconds
+  Import took 0.445173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Prefabs/TurtleShellPBR.prefab
+  artifactKey: Guid(38efdaadbfe1d624bbee439cb02e7661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Prefabs/TurtleShellPBR.prefab using Guid(38efdaadbfe1d624bbee439cb02e7661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6866d9ab544ae0a50708f9c855f1f501') in 0.441433 seconds
+  Import took 0.446542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Prefabs/SlimePBR.prefab
+  artifactKey: Guid(55776efecb0cd134ea5f418c2f97a705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Prefabs/SlimePBR.prefab using Guid(55776efecb0cd134ea5f418c2f97a705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c364b13a45dcf95743bba3f7d003a2c') in 0.078661 seconds
+  Import took 0.083352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Prefabs/TurtleShell.prefab
+  artifactKey: Guid(3aec22b5d3f3c2947bb81040b56e5f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Prefabs/TurtleShell.prefab using Guid(3aec22b5d3f3c2947bb81040b56e5f96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3cce902522c33804add413fe7292252') in 0.046634 seconds
+  Import took 0.051293 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 433.629544 seconds.
+  path: Assets/Robot Kyle/Model
+  artifactKey: Guid(48821e5ff5f30284cb80821ded0260f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Model using Guid(48821e5ff5f30284cb80821ded0260f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257c4f59e2d5978e48b92f8598827f9e') in 0.005682 seconds
+  Import took 0.008949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102184 seconds.
+  path: Assets/Robot Kyle/Model/Robot Kyle.fbx
+  artifactKey: Guid(320b1c2af77554f99a1658df4a6d3d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Model/Robot Kyle.fbx using Guid(320b1c2af77554f99a1658df4a6d3d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c1c86ec31218d007296e09df0fc5b80') in 0.333663 seconds
+  Import took 0.337173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 750.598881 seconds.
+  path: Assets/Robot Kyle/Materials/Robot_Color.mat
+  artifactKey: Guid(0aa851515cd3747d6b3b3e461199a2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle/Materials/Robot_Color.mat using Guid(0aa851515cd3747d6b3b3e461199a2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f5d0a5a796245645dcc307ab4ca8db7') in 0.086270 seconds
+  Import took 0.090413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.940972 seconds.
+  path: Assets/FantasyMonster
+  artifactKey: Guid(1359684260e26a64295c531480076072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster using Guid(1359684260e26a64295c531480076072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c7c0682771dddd15b737ae325185412') in 0.007042 seconds
+  Import took 0.010218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.021279 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart
+  artifactKey: Guid(913ae151718a46e4a876b717b4531fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart using Guid(913ae151718a46e4a876b717b4531fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80bc6c9bd5a90f97cfc4397fee16db4d') in 0.008638 seconds
+  Import took 0.011832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.067990 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs
+  artifactKey: Guid(12411cabe7e49bf418c82f42f2f9f75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs using Guid(12411cabe7e49bf418c82f42f2f9f75a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa81f0a54d7c7a308ef7aeab57cde69a') in 0.005333 seconds
+  Import took 0.008679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.100464 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/HP_Golem.prefab
+  artifactKey: Guid(c9bc790a133e19c40b64d6db4cfb7a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/HP_Golem.prefab using Guid(c9bc790a133e19c40b64d6db4cfb7a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1081c16d66f514f1c3732df4c4dbc13') in 0.399156 seconds
+  Import took 0.403962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/Polyart_Rock.prefab
+  artifactKey: Guid(cad9f745870d9f448bf225d2a253d382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/Polyart_Rock.prefab using Guid(cad9f745870d9f448bf225d2a253d382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8311c3cbea68b4b0b0242a46ea06120') in 0.036489 seconds
+  Import took 0.040542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/PBR_Rock.prefab
+  artifactKey: Guid(71497ec4178769a4c8cdb38563f01fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/PBR_Rock.prefab using Guid(71497ec4178769a4c8cdb38563f01fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47de6cc114cdc3fbd15e73d5fbb803e5') in 0.407384 seconds
+  Import took 0.412407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/HP_Rock.prefab
+  artifactKey: Guid(4bf449b1b6e781140a548b42020600f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/HP_Rock.prefab using Guid(4bf449b1b6e781140a548b42020600f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f1a00e0da0f4c39fe2c6ddba132087') in 0.084347 seconds
+  Import took 0.087753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/Polyart_Golem.prefab
+  artifactKey: Guid(c6cfc32748fb5004aa11a1be074b5c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/Polyart_Golem.prefab using Guid(c6cfc32748fb5004aa11a1be074b5c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ccc552acb7cf8cd4b227cb7abc35ec7') in 0.153724 seconds
+  Import took 0.157715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/PBR_Golem.prefab
+  artifactKey: Guid(6bbfea6690ef7724ba495c866081f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Prefabs/PBR_Golem.prefab using Guid(6bbfea6690ef7724ba495c866081f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298f0c2c9b10fe22a1a808ecf93e8ac9') in 0.441125 seconds
+  Import took 0.446579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 772.562736 seconds.
+  path: Assets/Snow Mountain
+  artifactKey: Guid(06f44107129751043aab2f87f9d2c70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snow Mountain using Guid(06f44107129751043aab2f87f9d2c70f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2540748e31457828e033c0c8417af263') in 0.006434 seconds
+  Import took 0.009702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.493684 seconds.
+  path: Assets/Snow Mountain/Prefab
+  artifactKey: Guid(0de9d0709e0788d44b4abc266097343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snow Mountain/Prefab using Guid(0de9d0709e0788d44b4abc266097343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce21df34cf38e5e642018618825f0c41') in 0.007676 seconds
+  Import took 0.010579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075702 seconds.
+  path: Assets/Snow Mountain/Prefab/mountain_Snow_000.prefab
+  artifactKey: Guid(a0caed2329b1ff545b145d48d6ef85d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snow Mountain/Prefab/mountain_Snow_000.prefab using Guid(a0caed2329b1ff545b145d48d6ef85d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af788901b77f7e63e2356cfb4e8a2fbc') in 0.538578 seconds
+  Import took 0.543845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 86.210178 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(4db6069975bba1c47b6983c87aa61436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(4db6069975bba1c47b6983c87aa61436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f8a1d030b949aac6bd3cda752e7c8d') in 0.014495 seconds
+  Import took 0.017671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.769922 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(4db6069975bba1c47b6983c87aa61436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(4db6069975bba1c47b6983c87aa61436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd970012d7911d01f174d29fc98e594f') in 0.012349 seconds
+  Import took 0.015905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003205 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(4db6069975bba1c47b6983c87aa61436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(4db6069975bba1c47b6983c87aa61436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd970012d7911d01f174d29fc98e594f') in 0.012497 seconds
+  Import took 0.015588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.345069 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/Stage 1.mat
+  artifactKey: Guid(d6645a3db55ef0c478638eaddedb98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/Stage 1.mat using Guid(d6645a3db55ef0c478638eaddedb98ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5938d2d66b86922d60bde8515f953a') in 0.018780 seconds
+  Import took 0.022542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Snow Mountain/Materials/whitePlane.mat
+  artifactKey: Guid(0b4d14158efca2b4aa691b18b8a58e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snow Mountain/Materials/whitePlane.mat using Guid(0b4d14158efca2b4aa691b18b8a58e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '343d3ae1f3e6a54b141c14f0d76f2a5d') in 0.026489 seconds
+  Import took 0.029740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/TurtleShellPBR.mat
+  artifactKey: Guid(b3ad386aba28716448079dcf67d7aede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/TurtleShellPBR.mat using Guid(b3ad386aba28716448079dcf67d7aede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220d00c11217ab41f05ba82f2cb94212') in 0.046574 seconds
+  Import took 0.049276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Weapons/Materials/Pistol_Mat.mat
+  artifactKey: Guid(cdd1dda890977a24b8597b566bc084de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Weapons/Materials/Pistol_Mat.mat using Guid(cdd1dda890977a24b8597b566bc084de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f76190bcc1100558fc8821aa90ee41') in 0.316160 seconds
+  Import took 0.319346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Eyes_Mat.mat
+  artifactKey: Guid(fc14fcaf3cd73e641b94b89c70ce5f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Eyes_Mat.mat using Guid(fc14fcaf3cd73e641b94b89c70ce5f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c29265be33e7ed5769abf5b598be94d') in 0.225655 seconds
+  Import took 0.228402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Head_Dirty_Mat.mat
+  artifactKey: Guid(9331b0723c193e8499bc184d8962be20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Head_Dirty_Mat.mat using Guid(9331b0723c193e8499bc184d8962be20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1637e6f3bfdea0b8b7e289c456a2b1') in 0.364056 seconds
+  Import took 0.366825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Body_Mat.mat
+  artifactKey: Guid(46ba9be6c4545f148aeea969a1f0bc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Body_Mat.mat using Guid(46ba9be6c4545f148aeea969a1f0bc1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b561ba4d7d7ee030e4400c6b13bd20e') in 1.524522 seconds
+  Import took 1.531366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Tear_Mat.mat
+  artifactKey: Guid(f4c868f611aae16448d369b0bf66a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Tear_Mat.mat using Guid(f4c868f611aae16448d369b0bf66a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11c27003abf61e19bd3aae4dc6e1fb02') in 0.190851 seconds
+  Import took 0.193572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials/Grenadier_Core_Mat.mat
+  artifactKey: Guid(a9bec445b198dd7458fcd489957a26b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials/Grenadier_Core_Mat.mat using Guid(a9bec445b198dd7458fcd489957a26b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46dc8428aaa216f9c7f29e2de04787e1') in 0.196723 seconds
+  Import took 0.200205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Grey.mat
+  artifactKey: Guid(f8d15df95b7ef5a4ead9604b3e5b6597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Grey.mat using Guid(f8d15df95b7ef5a4ead9604b3e5b6597) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae74727d93e391ef9d52af179e55a43') in 0.664876 seconds
+  Import took 0.669161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000788 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials/Grenadier_Eye_Mat.mat
+  artifactKey: Guid(39cc7989f799e874faf6589aeedb34f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials/Grenadier_Eye_Mat.mat using Guid(39cc7989f799e874faf6589aeedb34f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe2019c598bc65c7755a2d6732cfec42') in 0.106989 seconds
+  Import took 0.109871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials/Grenadier_Mat.mat
+  artifactKey: Guid(48c4ba26d842cdb4786ed2bb55ab481c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials/Grenadier_Mat.mat using Guid(48c4ba26d842cdb4786ed2bb55ab481c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa523832dc68da177fdc01da4c374836') in 0.637950 seconds
+  Import took 0.642233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Hair_Mat.mat
+  artifactKey: Guid(3e3ab0a89c44e6f4aaeaae2f672efd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Hair_Mat.mat using Guid(3e3ab0a89c44e6f4aaeaae2f672efd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a59b40bfdc57b65f6ebdde0e11dd7fd0') in 0.322950 seconds
+  Import took 0.326095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Green.mat
+  artifactKey: Guid(aa1e936803633064facac17fa9620e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Green.mat using Guid(aa1e936803633064facac17fa9620e73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bf005532eff74c3f71c7f31a6e4ce8c') in 0.390571 seconds
+  Import took 0.393351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Snow Mountain/Materials/mountain_Snow_000.mat
+  artifactKey: Guid(0060a88cd6252a146aeb6a9652d03869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snow Mountain/Materials/mountain_Snow_000.mat using Guid(0060a88cd6252a146aeb6a9652d03869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca10f27d0fecdbb748e59e667ed65f14') in 0.327040 seconds
+  Import took 0.330302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials/Gunner_Eye_Mat.mat
+  artifactKey: Guid(55a01f5d0cc7bad488467d9fc7bae8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials/Gunner_Eye_Mat.mat using Guid(55a01f5d0cc7bad488467d9fc7bae8a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6bfb7f5c6b9645adb69b5c0ed7795d') in 0.080567 seconds
+  Import took 0.084143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/PBR_Golem.mat
+  artifactKey: Guid(63d68c3ba5d7b90418069b96d9c35a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/PBR_Golem.mat using Guid(63d68c3ba5d7b90418069b96d9c35a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1b71fe0739a0bb0d9306f9554b998ab') in 0.333878 seconds
+  Import took 0.337005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Materials/skeleton_D.mat
+  artifactKey: Guid(b1494958bf9856a479bec1767c02878e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Materials/skeleton_D.mat using Guid(b1494958bf9856a479bec1767c02878e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc67b439273289e88336ae4cbff00c5') in 0.122530 seconds
+  Import took 0.125052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Snow Mountain/Source/fbx/Materials/defaultMat.mat
+  artifactKey: Guid(5edd51db1a681f947a99246f5c23c923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snow Mountain/Source/fbx/Materials/defaultMat.mat using Guid(5edd51db1a681f947a99246f5c23c923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17de67cf4b42d9f9cc040e72e5a25e5d') in 0.012610 seconds
+  Import took 0.015139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/PolyartStandard.mat
+  artifactKey: Guid(957781e2e64d0264f970dde36a30bd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/PolyartStandard.mat using Guid(957781e2e64d0264f970dde36a30bd93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c8323ff81ab6e86d1dcfd3373c5a71') in 0.037478 seconds
+  Import took 0.040425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/FantasyMonster/Skeleton/Character/Materials/skeleton_D.mat
+  artifactKey: Guid(ed14df0368fe53543907335c0e3902c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Character/Materials/skeleton_D.mat using Guid(ed14df0368fe53543907335c0e3902c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8835b6004237388946b3b0b94f030a') in 0.044828 seconds
+  Import took 0.047564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/PolyartDefault.mat
+  artifactKey: Guid(507d4aa237c275a48b72e5772879be66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/PolyartDefault.mat using Guid(507d4aa237c275a48b72e5772879be66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6697b1e41573b215b0a3316e62826fad') in 0.033268 seconds
+  Import took 0.036185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Weapons/Materials/Staff_Mat.mat
+  artifactKey: Guid(0e974c7294e486e4cb42482e61c0c4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Weapons/Materials/Staff_Mat.mat using Guid(0e974c7294e486e4cb42482e61c0c4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba59bcbd1386dfec9142484bd6889261') in 0.263894 seconds
+  Import took 0.268463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Body_Dirty_Mat.mat
+  artifactKey: Guid(bbbf9df415254ae468d2cdc15d0b17bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Body_Dirty_Mat.mat using Guid(bbbf9df415254ae468d2cdc15d0b17bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e50aefb52f758fb381f4d4665a19d0') in 0.707326 seconds
+  Import took 0.714992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000471 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/Stage.mat
+  artifactKey: Guid(19f8a934c4d1c2b47b1d094b83f39fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/Stage.mat using Guid(19f8a934c4d1c2b47b1d094b83f39fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '620eeab130e088daccf6292559c16dc2') in 0.016941 seconds
+  Import took 0.021569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter/Materials/Spitter_Internals_Mat.mat
+  artifactKey: Guid(ad62a3727ae35064c9db3c79da7bb7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter/Materials/Spitter_Internals_Mat.mat using Guid(ad62a3727ae35064c9db3c79da7bb7b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc62e8c2e4f59650ccb46871d6bb24a1') in 0.330587 seconds
+  Import took 0.334002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Meshes/RockMesh.fbx
+  artifactKey: Guid(61d36fd741d737440a1141db2542d983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Meshes/RockMesh.fbx using Guid(61d36fd741d737440a1141db2542d983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51072ccbc0f45edd48fefa535be05adb') in 0.064875 seconds
+  Import took 0.067805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Red.mat
+  artifactKey: Guid(21085cfc4f7ff8a4291ed42a85f27537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Red.mat using Guid(21085cfc4f7ff8a4291ed42a85f27537) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bca55cbb3d99e5d6958b13fba0b3a8d') in 0.375701 seconds
+  Import took 0.378793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/HP_Golem.mat
+  artifactKey: Guid(c8a253bc1d9e7814a87d01583a336bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/HP_Golem.mat using Guid(c8a253bc1d9e7814a87d01583a336bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2a337131f078f8cbfa96ed42d97cb3') in 0.079831 seconds
+  Import took 0.082464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat
+  artifactKey: Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/Skybox_Mat.mat using Guid(97f1fc767078c904184a5800339690a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82b14ec502b1cb1c09f2be4d304f5dc7') in 0.111882 seconds
+  Import took 0.114705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat
+  artifactKey: Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RPG Monster Duo PBR Polyart/Materials/SlimePBR.mat using Guid(d357a802e5ef4d44d829d89dfb1a341c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71cd1c8f9903767c589547bf2005965') in 0.046716 seconds
+  Import took 0.049313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Materials/Chomper_Internals_Mat.mat
+  artifactKey: Guid(4b16268047716604e8906338172a7efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Materials/Chomper_Internals_Mat.mat using Guid(4b16268047716604e8906338172a7efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98af510b6b2c8a9152ae0e3bec52bbf1') in 0.084814 seconds
+  Import took 0.089483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_EyeLash_Mat.mat
+  artifactKey: Guid(a022c48ded93f264c83844268add12a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_EyeLash_Mat.mat using Guid(a022c48ded93f264c83844268add12a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c88c56e73319383748f1b6de8d40d2') in 0.147274 seconds
+  Import took 0.150286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Head_Mat.mat
+  artifactKey: Guid(9ccf8b1016d42a84b953222267c693d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Materials/Ellen_Head_Mat.mat using Guid(9ccf8b1016d42a84b953222267c693d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd05a97361aa14aee8c36ac93c163331') in 0.217504 seconds
+  Import took 0.220378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials/Gunner_Core_Mat.mat
+  artifactKey: Guid(51f2252bb2d13df40a2a29630ee9381e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials/Gunner_Core_Mat.mat using Guid(51f2252bb2d13df40a2a29630ee9381e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01c61d0e6637dc65057367d0f185bfc') in 0.043476 seconds
+  Import took 0.046359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials/Gunner_Mat.mat
+  artifactKey: Guid(20d4e37beb23c7b4ba90e9fe6b540767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials/Gunner_Mat.mat using Guid(20d4e37beb23c7b4ba90e9fe6b540767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63658fc765637419f6e2cb25ce0fc85f') in 0.275084 seconds
+  Import took 0.278740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Materials/Chomper_Body_Mat.mat
+  artifactKey: Guid(dad26cc8af5eca141b973d06942e6efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Materials/Chomper_Body_Mat.mat using Guid(dad26cc8af5eca141b973d06942e6efb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0183c99723e69ddff8f11ecf08b5e12') in 0.265045 seconds
+  Import took 0.268646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000415 seconds.
+  path: Assets/Snow Mountain/Materials/enviromentMap.mat
+  artifactKey: Guid(b7b81ebbe36017a489fa9efb826111de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Snow Mountain/Materials/enviromentMap.mat using Guid(b7b81ebbe36017a489fa9efb826111de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03698519506cdd24dc515549e493f0a') in 0.052195 seconds
+  Import took 0.055075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat
+  artifactKey: Guid(defbdb8d47c401641be7b7c013675558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Meshes/Materials/F3_Yellow.mat using Guid(defbdb8d47c401641be7b7c013675558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2e9eb63b928bc495c50cb548f419a8') in 0.345036 seconds
+  Import took 0.347800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter/Materials/Spitter_Body_Mat.mat
+  artifactKey: Guid(0ef55e615d8ada44085ccce2062b647d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter/Materials/Spitter_Body_Mat.mat using Guid(0ef55e615d8ada44085ccce2062b647d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd8adbc92566d82b470869f9db7c3c62') in 0.269769 seconds
+  Import took 0.274346 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/Skybox_Mat.mat
+  artifactKey: Guid(7a0829b84da95824781fc0ab1c892dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mini Legion Rock Golem PBR HP Polyart/Materials/Skybox_Mat.mat using Guid(7a0829b84da95824781fc0ab1c892dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8ae053a72227b5f56661d910270e83') in 0.012427 seconds
+  Import took 0.016530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.070874 seconds.
+  path: Assets/FantasyMonster/Skeleton
+  artifactKey: Guid(d6fdd1520e7e032499bd037e577974a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton using Guid(d6fdd1520e7e032499bd037e577974a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e7050544b992d52e5a03363e85623e') in 0.004902 seconds
+  Import took 0.008530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 549.864065 seconds.
+  path: Assets/3D Game Kit - Character Pack
+  artifactKey: Guid(632fbae3ef9ab3345b268bd66e833ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack using Guid(632fbae3ef9ab3345b268bd66e833ef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485cfacd47672356c7e3159c1c8a04ae') in 0.005901 seconds
+  Import took 0.010964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.901048 seconds.
+  path: Assets/3D Game Kit - Character Pack/Shaders
+  artifactKey: Guid(a985320435cc8284fb18db80a8debabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Shaders using Guid(a985320435cc8284fb18db80a8debabf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1570bab66108bbb0cca0148d580f7573') in 0.005741 seconds
+  Import took 0.008633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.302457 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters
+  artifactKey: Guid(0118097ded8dbb741af77bed6b8ca050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters using Guid(0118097ded8dbb741af77bed6b8ca050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adbf916f5f9a1f8f634b24e31612b306') in 0.006912 seconds
+  Import took 0.010320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.030436 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper
+  artifactKey: Guid(b7d6bb0a5aeaf284aa99e7fffc2c3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper using Guid(b7d6bb0a5aeaf284aa99e7fffc2c3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dbca5dbec0101998a65c08bf2d8632b') in 0.005673 seconds
+  Import took 0.009216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.106315 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Models
+  artifactKey: Guid(29561e69de6723b4ca1814976f82b6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Models using Guid(29561e69de6723b4ca1814976f82b6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75f89eb4d290d5a3fe35b173bcded8d') in 0.007518 seconds
+  Import took 0.010799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094847 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Models/Chomper.FBX
+  artifactKey: Guid(2732fe64dd2799f439fb845921df626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Models/Chomper.FBX using Guid(2732fe64dd2799f439fb845921df626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b989252fbcd6c20d4eae06fc529f1f75') in 0.296971 seconds
+  Import took 0.301593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.952076 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperAttack.fbx
+  artifactKey: Guid(257e753645ba2954ca2439c671e5337b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperAttack.fbx using Guid(257e753645ba2954ca2439c671e5337b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc134cbcb10e03bb2684cce031a07dd8') in 0.035620 seconds
+  Import took 0.038629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000839 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit2.fbx
+  artifactKey: Guid(d923bfbf69372aa46bdc5d794fe3dde2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit2.fbx using Guid(d923bfbf69372aa46bdc5d794fe3dde2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839c5b5cb620fb29c0a62565714a5a29') in 0.050467 seconds
+  Import took 0.054061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperWalkForward.fbx
+  artifactKey: Guid(207dc8692867d714ab049ba3b95ff920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperWalkForward.fbx using Guid(207dc8692867d714ab049ba3b95ff920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6ee09e70d7f70f83fea5aadc259a28') in 0.042794 seconds
+  Import took 0.045892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperCutsceneTOIdle.fbx
+  artifactKey: Guid(80d4ed07373c2744c9b3005f4191436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperCutsceneTOIdle.fbx using Guid(80d4ed07373c2744c9b3005f4191436f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048cdae252b0931f88592e2b9f919c8e') in 0.033001 seconds
+  Import took 0.035983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperIdle.fbx
+  artifactKey: Guid(ab5bda48f8799bb4f84ab060e69f60a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperIdle.fbx using Guid(ab5bda48f8799bb4f84ab060e69f60a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528ed612539c91bf1bc86953fd1b06bb') in 0.041469 seconds
+  Import took 0.046059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit3.fbx
+  artifactKey: Guid(ea28880f3c432b74ba40f56c53f03139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit3.fbx using Guid(ea28880f3c432b74ba40f56c53f03139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98f75732ce32c79ae05160215fbd921b') in 0.036179 seconds
+  Import took 0.039239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit1.fbx
+  artifactKey: Guid(4fc6949e6b7737f4da8cd2e1ce1d66f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit1.fbx using Guid(4fc6949e6b7737f4da8cd2e1ce1d66f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e0f236f8cbb901cc43a22762ba04727') in 0.032865 seconds
+  Import took 0.037847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit4.fbx
+  artifactKey: Guid(79010052a8a8d57429c67f68dab3478f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit4.fbx using Guid(79010052a8a8d57429c67f68dab3478f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648d80c895d0e95ed4f2425220c256c5') in 0.033763 seconds
+  Import took 0.037128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperRunForward.fbx
+  artifactKey: Guid(1e35373135394fa45852a3e55ba00889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperRunForward.fbx using Guid(1e35373135394fa45852a3e55ba00889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f756dc10d6de7c81834c80c3adc4a2c7') in 0.034066 seconds
+  Import took 0.038075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit4.fbx
+  artifactKey: Guid(79010052a8a8d57429c67f68dab3478f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/AnimationClips/@ChomperHit4.fbx using Guid(79010052a8a8d57429c67f68dab3478f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '648d80c895d0e95ed4f2425220c256c5') in 0.030889 seconds
+  Import took 0.034424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.566799 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen
+  artifactKey: Guid(73aa2ae2f4ee4f643a0ab1f1ee2df86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen using Guid(73aa2ae2f4ee4f643a0ab1f1ee2df86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98fa87b51fbf9f90fc3d0d95319b1240') in 0.006339 seconds
+  Import took 0.009906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.414726 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier
+  artifactKey: Guid(ed0b65884ad11414b9b6a5248c009b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier using Guid(ed0b65884ad11414b9b6a5248c009b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb49eba30c0650eff378a64905b8c0f2') in 0.007559 seconds
+  Import took 0.011776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.978976 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials
+  artifactKey: Guid(4756cb6a51a72cc45a107903a8a7b3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Materials using Guid(4756cb6a51a72cc45a107903a8a7b3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b30dce3d770f0e966a88065aef370c8') in 0.006562 seconds
+  Import took 0.010025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.557345 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models/Grenadier.fbx
+  artifactKey: Guid(887cc9cbcc10e8c45b6262198cc15ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models/Grenadier.fbx using Guid(887cc9cbcc10e8c45b6262198cc15ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a981246b52b990a38474cb5fae760a') in 0.604080 seconds
+  Import took 0.610305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.046528 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_Albedo.tif
+  artifactKey: Guid(a131a3e31f0c4794fbd8d1fd0d942b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_Albedo.tif using Guid(a131a3e31f0c4794fbd8d1fd0d942b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be06b7aa2fc84ea7b026acf714a8b5d4') in 0.119680 seconds
+  Import took 0.123112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_Normal.tif
+  artifactKey: Guid(937c2229d98699c4f9ac979b18b24a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_Normal.tif using Guid(937c2229d98699c4f9ac979b18b24a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52209fbfd01df041a02c2b93a908f505') in 0.074909 seconds
+  Import took 0.077818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_DissolveGradient.tif
+  artifactKey: Guid(0d67bfeb62a5a9f41b28f61a84bd49da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_DissolveGradient.tif using Guid(0d67bfeb62a5a9f41b28f61a84bd49da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '120f718e86882db165bff3112927fb64') in 0.013405 seconds
+  Import took 0.016965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_MetallicSmooth.tif
+  artifactKey: Guid(b777e10d28a944c4ea05d834c049bdf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_MetallicSmooth.tif using Guid(b777e10d28a944c4ea05d834c049bdf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197abf0d557227e0ed23d4266f4ee055') in 0.090981 seconds
+  Import took 0.095244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_Occlusion.tif
+  artifactKey: Guid(8b8f71b26727fd347aa7a9584bad7892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Textures/Chomper_Occlusion.tif using Guid(8b8f71b26727fd347aa7a9584bad7892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcb5e6260b2dc06b9d0fd30149ec34da') in 0.078543 seconds
+  Import took 0.081238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.286243 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Models
+  artifactKey: Guid(544c525bf01e66047b72170a1271159a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Models using Guid(544c525bf01e66047b72170a1271159a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc263f2543f58cdfbf00b5819b20e5d3') in 0.006212 seconds
+  Import took 0.009170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071497 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Models/Ellen.fbx
+  artifactKey: Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Models/Ellen.fbx using Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787c7f18c4749f5564529945924f7714') in 1.783357 seconds
+  Import took 1.794719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.771938 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Models/Ellen.fbx
+  artifactKey: Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Models/Ellen.fbx using Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787c7f18c4749f5564529945924f7714') in 1.304823 seconds
+  Import took 1.327586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.824226 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner
+  artifactKey: Guid(e67e23499f192c6418c7f240b4b1a2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner using Guid(e67e23499f192c6418c7f240b4b1a2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0f50abb06efffdc8450919561de97e') in 0.005846 seconds
+  Import took 0.008624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.134020 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials
+  artifactKey: Guid(1f471b063899e1c428ab43a9ae1e03c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Materials using Guid(1f471b063899e1c428ab43a9ae1e03c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0575225ea8c31379dd24f3c9da1ee3') in 0.005504 seconds
+  Import took 0.008933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.280051 seconds.
+  path: Assets/F3_Corvette
+  artifactKey: Guid(ddaa9ad805ad0864f95639bd1b91a59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette using Guid(ddaa9ad805ad0864f95639bd1b91a59c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1df5b96a16babd9a102cb21555c3c8') in 0.007498 seconds
+  Import took 0.010412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.869233 seconds.
+  path: Assets/F3_Corvette/Prefabs
+  artifactKey: Guid(0b8c335ad81e9ed4391adfd78e3801d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Prefabs using Guid(0b8c335ad81e9ed4391adfd78e3801d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbb4dd89fafb1728d62a4c72e79ae0e') in 0.004764 seconds
+  Import took 0.007835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078682 seconds.
+  path: Assets/F3_Corvette/Prefabs/F3_Green Variant.prefab
+  artifactKey: Guid(1b9c9bd520ad54747a98d7222069677a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Prefabs/F3_Green Variant.prefab using Guid(1b9c9bd520ad54747a98d7222069677a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bfd787eded348a6faf4e3895aaa0f4b') in 0.473588 seconds
+  Import took 0.476939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/F3_Corvette/Prefabs/F3_Red Variant.prefab
+  artifactKey: Guid(481351381d17b144594f0cceef6ef608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Prefabs/F3_Red Variant.prefab using Guid(481351381d17b144594f0cceef6ef608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0af7e71e4f0190a53d9c8d66ed4f724') in 0.385483 seconds
+  Import took 0.390442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/F3_Corvette/Prefabs/F3_Grey Variant.prefab
+  artifactKey: Guid(f00c8df389af47046baea2d14b531550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Prefabs/F3_Grey Variant.prefab using Guid(f00c8df389af47046baea2d14b531550) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7a34f7ef0ae675012934ca04ed90c7c') in 0.351378 seconds
+  Import took 0.355297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/F3_Corvette/Prefabs/F3_Yellow Variant.prefab
+  artifactKey: Guid(4a44e7ddd5d26154cb1e23c0c3a2addb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/F3_Corvette/Prefabs/F3_Yellow Variant.prefab using Guid(4a44e7ddd5d26154cb1e23c0c3a2addb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061ed58019e9f8a739df3610ea04c8f8') in 0.343382 seconds
+  Import took 0.346382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 193.451345 seconds.
+  path: Assets/Robot Kyle
+  artifactKey: Guid(739207de12fb1834d81f08dade2eac56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot Kyle using Guid(739207de12fb1834d81f08dade2eac56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364da14307605ac80932d41ffcca96b8') in 0.005900 seconds
+  Import took 0.009576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.942194 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(0ba6260c25ea7c742bd80b391ad60930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(0ba6260c25ea7c742bd80b391ad60930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aefe2a13268a6a2c435610e9dfa3d9f9') in 0.008998 seconds
+  Import took 0.013821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.069365 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(f8202855fb417d54b8b9193a6771e959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(f8202855fb417d54b8b9193a6771e959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89fd9d216d844f2f217d4c50d7f0386') in 0.007812 seconds
+  Import took 0.011012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.560981 seconds.
+  path: Assets/FantasyMonster/Skeleton/Character
+  artifactKey: Guid(d3a845372b9436b4385ea863165874a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Character using Guid(d3a845372b9436b4385ea863165874a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e0db3cde46817450eed0b0cd0e397fa') in 0.004747 seconds
+  Import took 0.008697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.659443 seconds.
+  path: Assets/FantasyMonster/Skeleton/Texture
+  artifactKey: Guid(0598a604d450a6c488af7edf798f41c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Texture using Guid(0598a604d450a6c488af7edf798f41c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c792e743cd15d4e5025cefc30b78bd') in 0.007506 seconds
+  Import took 0.010521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066740 seconds.
+  path: Assets/FantasyMonster/Skeleton/Texture/Skeleton_D.tif
+  artifactKey: Guid(943f3c476130c4f4f8ae55ef3ccd38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Texture/Skeleton_D.tif using Guid(943f3c476130c4f4f8ae55ef3ccd38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce9558b4abf927aef44111a04581275') in 0.028155 seconds
+  Import took 0.032016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.895371 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Models/Gunner.fbx
+  artifactKey: Guid(b476cabc75adebf4e998f44ada8db684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Models/Gunner.fbx using Guid(b476cabc75adebf4e998f44ada8db684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df7065a058f5e8fa680bd2b2290d4abd') in 0.304321 seconds
+  Import took 0.308876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.957467 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani
+  artifactKey: Guid(e9004513ee3e2574eba91eb9d83b5cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani using Guid(e9004513ee3e2574eba91eb9d83b5cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb010acd232ee1559b06e741bb02545') in 0.007684 seconds
+  Import took 0.010788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.295864 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Attack.FBX
+  artifactKey: Guid(dfc15c633f0d98141920018f79a042a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Attack.FBX using Guid(dfc15c633f0d98141920018f79a042a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d5cfb1a3f45bbf6629397789c0ec951') in 0.072083 seconds
+  Import took 0.075668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Skill.FBX
+  artifactKey: Guid(1e768688017709245aed3bb86453c364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Skill.FBX using Guid(1e768688017709245aed3bb86453c364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08d98b1b6ab544776bdf243a81af2f7') in 0.065594 seconds
+  Import took 0.068371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Death.FBX
+  artifactKey: Guid(a749f4485b342b7469956010abf2ab25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Death.FBX using Guid(a749f4485b342b7469956010abf2ab25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9dc0d8e1d42ffd648ecd1c51a22774') in 0.062959 seconds
+  Import took 0.065672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Run.FBX
+  artifactKey: Guid(f57ee821486cd7b488adf1063a8dd207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Run.FBX using Guid(f57ee821486cd7b488adf1063a8dd207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1d2a5a95c272818b1fb750726e9a75') in 0.066811 seconds
+  Import took 0.069815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Idle.FBX
+  artifactKey: Guid(a5ea117a2b123564a83a2dbd1c9ea4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Idle.FBX using Guid(a5ea117a2b123564a83a2dbd1c9ea4cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc2aad1e4165921a0bcb4a4949a80b1') in 0.073976 seconds
+  Import took 0.077083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Damage.FBX
+  artifactKey: Guid(81d4af5a5190e3d4d88c97161d881bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Damage.FBX using Guid(81d4af5a5190e3d4d88c97161d881bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910d5b48ef162453ac2d8fe1efa44128') in 0.058871 seconds
+  Import took 0.061946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Knockback.FBX
+  artifactKey: Guid(6e0b4a05932877a4b89fb3fb32c3e72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Knockback.FBX using Guid(6e0b4a05932877a4b89fb3fb32c3e72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16012680addf57aabc779be49d450973') in 0.050656 seconds
+  Import took 0.053590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Walk.FBX
+  artifactKey: Guid(188f1042b5ff4644389fad5df1f98d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Walk.FBX using Guid(188f1042b5ff4644389fad5df1f98d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2b1f495630a02da618a2d26635d274') in 0.049009 seconds
+  Import took 0.051862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/FantasyMonster/Skeleton/Ani/Skeleton@Stand.FBX
+  artifactKey: Guid(6f61bc53c41ba664fa527d3386ecfd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FantasyMonster/Skeleton/Ani/Skeleton@Stand.FBX using Guid(6f61bc53c41ba664fa527d3386ecfd1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41d54c3e1210e14be27bbb739f7f0f73') in 0.048851 seconds
+  Import took 0.051996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.690423 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter
+  artifactKey: Guid(70c56b4a86629354fa1a066ff8c43bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter using Guid(70c56b4a86629354fa1a066ff8c43bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4006206b47a508c913348bd21ee82d') in 0.005621 seconds
+  Import took 0.009081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.540024 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter/Models
+  artifactKey: Guid(f5287693c1ed1eb45888bcac434d830b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter/Models using Guid(f5287693c1ed1eb45888bcac434d830b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48605c1094561a4e62531a96fa2b48a4') in 0.006667 seconds
+  Import took 0.009707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078192 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter/Models/Spitter.fbx
+  artifactKey: Guid(3a3cea986292c2445a02c973a48c7e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter/Models/Spitter.fbx using Guid(3a3cea986292c2445a02c973a48c7e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7c9beaa094b8aa98c3abdbc8ad2f44') in 0.345738 seconds
+  Import took 0.350888 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.7 MB.
+System memory in use after: 76.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1920.
+Total: 5.384012 ms (FindLiveObjects: 0.416455 ms CreateObjectMapping: 0.127635 ms MarkObjects: 4.700982 ms  DeleteObjects: 0.136387 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
